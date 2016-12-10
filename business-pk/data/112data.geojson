@@ -1,0 +1,3115 @@
+{  
+   "type":"FeatureCollection",
+   "features":[  
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.394262,
+               48.841178
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751496407,
+            "code_postal":"75012",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"1 rue de la Gare de Reuilly 119 rue de Reuilly",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-05-11",
+            "denomination":"JFTP",
+            "coordonnees":[  
+               48.841178,
+               2.394262
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751496407"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.286589,
+               48.876101
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539798512,
+            "code_postal":"75016",
+            "libelle": "chauffagiste",
+            "region":"Ile-de-France",
+            "adresse":"2 63 aven de la Grande Arm\u00e9e",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 en nom collectif",
+            "date":"2012-03-12",
+            "denomination":"SNC LE BALTO",
+            "coordonnees":[  
+               48.876101,
+               2.286589
+            ],
+            "code_ape":"5630Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539798512"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.316066,
+               48.832998
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750317752,
+            "code_postal":"75014",
+            "region":"Ile-de-France",
+            "adresse":"angle du 46 rue de Gergovie",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-03-14",
+            "denomination":"JUMI 12",
+            "coordonnees":[  
+               48.832998,
+               2.316066
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750317752"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.326406,
+               48.895417
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539087486,
+            "code_postal":"75017",
+            "region":"Ile-de-France",
+            "adresse":"rue Navier Angle 25 rue Jean Leclaire",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-01-16",
+            "denomination":"NAVIER FOOD",
+            "coordonnees":[  
+               48.895417,
+               2.326406
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539087486"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.347983,
+               48.875859
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":540024726,
+            "code_postal":"75009",
+            "region":"Ile-de-France",
+            "adresse":"et 2 rue Papillon",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-02-20",
+            "denomination":"X.J",
+            "coordonnees":[  
+               48.875859,
+               2.347983
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=540024726"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.370566,
+               48.871446
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539321323,
+            "code_postal":"75010",
+            "libelle": "electricien",
+            "region":"Ile-de-France",
+            "adresse":"Le Spass- 19 rue Jacques Louvel-Tessier",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-01-19",
+            "denomination":"MeMo",
+            "coordonnees":[  
+               48.871446,
+               2.370566
+            ],
+            "code_ape":"5814Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539321323"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.335038,
+               48.875267
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539736397,
+            "code_postal":"75009",
+            "libelle":"Photocopie  pr\u00e9p. de documents et autres acti. sp\u00e9cialis\u00e9es de soutien de bureau",
+            "region":"Ile-de-France",
+            "adresse":"52 rue de la Victoire",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-02-06",
+            "denomination":"MBE France",
+            "coordonnees":[  
+               48.875267,
+               2.335038
+            ],
+            "code_ape":"8219Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539736397"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.35936105897,
+               48.8630541318
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539882878,
+            "code_postal":"75003",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"160 bis rue du Temple angle   de la rue Dupetit Thouars",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-02-13",
+            "denomination":"DIVERS TEMPLE",
+            "coordonnees":[  
+               48.8630541318,
+               2.35936105897
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539882878"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.353864,
+               48.869977
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539907139,
+            "code_postal":"75010",
+            "libelle": "electricien",
+            "region":"Ile-de-France",
+            "adresse":"18/20 boulevard Saint Denis 8 pass du Prado",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-02-14",
+            "denomination":"Jolie cosm\u00e9tique",
+            "coordonnees":[  
+               48.869977,
+               2.353864
+            ],
+            "code_ape":"9602A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539907139"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.300883,
+               48.872983
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":790089841,
+            "code_postal":"75008",
+            "region":"Ile-de-France",
+            "adresse":"Angle 3 et 5 rue Balzac - 8 rue Lord Byron",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-12-19",
+            "denomination":"SARL LY CHAMPS ELYSEES",
+            "coordonnees":[  
+               48.872983,
+               2.300883
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=790089841"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.317122,
+               48.869524
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789245420,
+            "code_postal":"75008",
+            "libelle":"Activit\u00e9s des agents et courtiers d'assurances",
+            "region":"Ile-de-France",
+            "adresse":"e 101 Ave des Champs Elys\u00e9es",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-11-08",
+            "denomination":"Protect et Secure Insurance",
+            "coordonnees":[  
+               48.869524,
+               2.317122
+            ],
+            "code_ape":"6622Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789245420"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.353555,
+               48.874706
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789707775,
+            "code_postal":"75010",
+            "libelle":"Supermarch\u00e9s",
+            "region":"Ile-de-France",
+            "adresse":"15 rue de Paradis 16 rue Martel",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-12-03",
+            "denomination":"BOUTIKSOONDREN",
+            "coordonnees":[  
+               48.874706,
+               2.353555
+            ],
+            "code_ape":"4711D",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789707775"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.326955,
+               48.89322
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751812496,
+            "code_postal":"75017",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"48 rue de la Jonqui\u00e8re 4 rue Lantiez",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-05-30",
+            "denomination":"DS",
+            "coordonnees":[  
+               48.89322,
+               2.326955
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751812496"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.356082,
+               48.83925
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750678740,
+            "code_postal":"75005",
+            "libelle":"R\u00e9paration d'autres biens personnels et domestiques",
+            "region":"Ile-de-France",
+            "adresse":"2/4 rue Fosses Saint Marcel et 1 RUE du Fer \u00e0 Moulin",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-04-02",
+            "denomination":"RETOUCHERIE SENEL",
+            "coordonnees":[  
+               48.83925,
+               2.356082
+            ],
+            "code_ape":"9529Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750678740"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.283316,
+               48.846783
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":788534980,
+            "code_postal":"75015",
+            "libelle": "electricien",
+            "region":"Ile-de-France",
+            "adresse":"res. Hall A  2\u00e9tage 14 rue des 4 Fr\u00e8res Peignot",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-10-03",
+            "denomination":"EURO TRADERS WORLDWIDE",
+            "coordonnees":[  
+               48.846783,
+               2.283316
+            ],
+            "code_ape":"4511Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=788534980"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.339458,
+               48.867622
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752157354,
+            "code_postal":"75002",
+            "libelle":"Autres services de r\u00e9servation et activit\u00e9s connexes",
+            "region":"Ile-de-France",
+            "adresse":"Lot 3 12  rue Vivienne",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-06-15",
+            "denomination":"TWEEGO",
+            "coordonnees":[  
+               48.867622,
+               2.339458
+            ],
+            "code_ape":"7990Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752157354"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.355004,
+               48.868006
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752639849,
+            "code_postal":"75003",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"angle 337 rue Saint Martin",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-07-10",
+            "denomination":"SAINT MARTIN 337",
+            "coordonnees":[  
+               48.868006,
+               2.355004
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752639849"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.40081982673,
+               48.8631867774
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752422659,
+            "code_postal":"75020",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"Plac du marquis du Vercors Zac de la",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-06-27",
+            "denomination":"LA SOCIETE HOKI 12",
+            "coordonnees":[  
+               48.8631867774,
+               2.40081982673
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752422659"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.299325,
+               48.851996
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751705591,
+            "code_postal":"75015",
+            "libelle":"Commerce de d\u00e9tail de biens d'occasion en magasin",
+            "region":"Ile-de-France",
+            "adresse":"B\u00e2timent B1 76-78 ave de Suffren",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-05-24",
+            "denomination":"GALERIE NEVY",
+            "coordonnees":[  
+               48.851996,
+               2.299325
+            ],
+            "code_ape":"4779Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751705591"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.383115,
+               48.825792
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752067157,
+            "code_postal":"75013",
+            "libelle":"Autres activit\u00e9s de t\u00e9l\u00e9communication",
+            "region":"Ile-de-France",
+            "adresse":"Immeuble Berlier 15 RUE Jean Baptiste Berlier",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-06-12",
+            "denomination":"LES CLAMEURS",
+            "coordonnees":[  
+               48.825792,
+               2.383115
+            ],
+            "code_ape":"6190Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752067157"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.302557,
+               48.890361
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751622051,
+            "code_postal":"75017",
+            "libelle":"Enseignement de disciplines sportives et d'activit\u00e9s de loisirs",
+            "region":"Ile-de-France",
+            "adresse":"Esc.1 Appt440 2/4 rue Redon",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-06-05",
+            "denomination":"Rudy Coia",
+            "coordonnees":[  
+               48.890361,
+               2.302557
+            ],
+            "code_ape":"8551Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751622051"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.340775,
+               48.872033
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751693128,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"18 bd Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-05-23",
+            "denomination":"ORENTA311",
+            "coordonnees":[  
+               48.872033,
+               2.340775
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751693128"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.28577,
+               48.881103
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751800228,
+            "code_postal":"75017",
+            "region":"Ile-de-France",
+            "adresse":"ngle 25 rue Ruhmkorff",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-06-04",
+            "denomination":"SUSHI KI",
+            "coordonnees":[  
+               48.881103,
+               2.28577
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751800228"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.300271,
+               48.871699
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539014951,
+            "code_postal":"75008",
+            "libelle":"Activit\u00e9s sp\u00e9cialis\u00e9es de design",
+            "region":"Ile-de-France",
+            "adresse":"Immeuble Louis Vuitton 60 rue Bassano",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-01-06",
+            "denomination":"LE STUDIO LEONAR",
+            "coordonnees":[  
+               48.871699,
+               2.300271
+            ],
+            "code_ape":"7410Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539014951"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.308879,
+               48.865489
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":788655942,
+            "code_postal":"75008",
+            "libelle":"Conseil pour les affaires et autres conseils de gestion",
+            "region":"Ile-de-France",
+            "adresse":"40 avenue Georges V et 55 rue Fran\u00e7ois 1er",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-10-09",
+            "denomination":"CORPORATE VALUE ASSOCIATES FRANCE",
+            "coordonnees":[  
+               48.865489,
+               2.308879
+            ],
+            "code_ape":"7022Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=788655942"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.33746024139,
+               48.8768961624
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789533817,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"Chez Fineiffel 18 Boul Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-26",
+            "denomination":"ORENTA333",
+            "coordonnees":[  
+               48.8768961624,
+               2.33746024139
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789533817"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.33746024139,
+               48.8768961624
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789533924,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"Chez Fineiffel 18 Boul Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-26",
+            "denomination":"ORENTA334",
+            "coordonnees":[  
+               48.8768961624,
+               2.33746024139
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789533924"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.379505,
+               48.86833
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789685625,
+            "code_postal":"75011",
+            "libelle":"Conseil pour les affaires et autres conseils de gestion",
+            "region":"Ile-de-France",
+            "adresse":"B\u00e2timent B2 112 rue Jean-Pierre Timbaud",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-11-30",
+            "denomination":"COBINK",
+            "coordonnees":[  
+               48.86833,
+               2.379505
+            ],
+            "code_ape":"7022Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789685625"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.351519,
+               48.89145
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789051026,
+            "code_postal":"75018",
+            "libelle":"Restauration de type rapide",
+            "region":"Ile-de-France",
+            "adresse":"1 rue des Portes Blanches et 71 rue des Poissonniers",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-11-06",
+            "denomination":"RICH BURGER",
+            "coordonnees":[  
+               48.89145,
+               2.351519
+            ],
+            "code_ape":"5610C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789051026"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.381746,
+               48.858141
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":790205439,
+            "code_postal":"75011",
+            "region":"Ile-de-France",
+            "adresse":"119 rue de la Roquette et 1 rue Pi\u00e9ton",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-12-28",
+            "denomination":"LE PUITS DU MONT D'AUBRAC",
+            "coordonnees":[  
+               48.858141,
+               2.381746
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=790205439"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.345829,
+               48.83872
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751448713,
+            "code_postal":"75005",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"21 rue Berthollet 19 rue des Lyonnais",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-05-04",
+            "denomination":"ROYAL EXPRESS",
+            "coordonnees":[  
+               48.83872,
+               2.345829
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751448713"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.344432,
+               48.862519
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750199242,
+            "code_postal":"75001",
+            "libelle":"Restauration de type rapide",
+            "region":"Ile-de-France",
+            "adresse":"C22A  rue du Cin\u00e9ma",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-03-12",
+            "denomination":"CHAAK HALLES",
+            "coordonnees":[  
+               48.862519,
+               2.344432
+            ],
+            "code_ape":"5610C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750199242"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.30748555949,
+               48.8873371665
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539906008,
+            "code_postal":"75017",
+            "region":"Ile-de-France",
+            "adresse":"70 avenue de Villiers Angle 73 rue Jouffroy d'Abbans",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-02-16",
+            "denomination":"TRISTAN",
+            "coordonnees":[  
+               48.8873371665,
+               2.30748555949
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539906008"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.306208,
+               48.871721
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751603762,
+            "code_postal":"75008",
+            "libelle":"Conseil en relations publiques et communication",
+            "region":"Ile-de-France",
+            "adresse":"Bureau 46 49-51 rue de Ponthieu",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-05-18",
+            "denomination":"SOCIETE D'EXPLOITATION ET DE DIFFUSION ARTISITQUE",
+            "coordonnees":[  
+               48.871721,
+               2.306208
+            ],
+            "code_ape":"7021Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751603762"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.365239,
+               48.877951
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539244004,
+            "code_postal":"75010",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"4 rue Eug\u00e8ne Varlin",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-01-31",
+            "denomination":"OOKA",
+            "coordonnees":[  
+               48.877951,
+               2.365239
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539244004"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.281741,
+               48.849937
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":749925483,
+            "code_postal":"75015",
+            "libelle":"Formation continue d'adultes",
+            "region":"Ile-de-France",
+            "adresse":"port de Grenelle",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-02-28",
+            "denomination":"HLMS FORMATION",
+            "coordonnees":[  
+               48.849937,
+               2.281741
+            ],
+            "code_ape":"8559A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=749925483"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.378203,
+               48.892133
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":749930301,
+            "code_postal":"75019",
+            "libelle":"Conseil en relations publiques et communication",
+            "region":"Ile-de-France",
+            "adresse":"R\u00e9sidence Ile de Flandre B\u00e2t D2 131 AV de Flandre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-03-02",
+            "denomination":"XIKO",
+            "coordonnees":[  
+               48.892133,
+               2.378203
+            ],
+            "code_ape":"7021Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=749930301"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.30262,
+               48.875587
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":753943984,
+            "code_postal":"75008",
+            "libelle":"Activit\u00e9s des soci\u00e9t\u00e9s holding",
+            "region":"Ile-de-France",
+            "adresse":"Etoile Saint Honor\u00e9 21-25 RUE Balzac",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-09-20",
+            "denomination":"Willink Management",
+            "coordonnees":[  
+               48.875587,
+               2.30262
+            ],
+            "code_ape":"6420Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=753943984"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.32710088326,
+               48.8289932116
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":753996883,
+            "code_postal":"75014",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"59 boulevard Saint Jacques   angle 1 rue de la Tombe Issoire",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-09-24",
+            "denomination":"MY COLONEL",
+            "coordonnees":[  
+               48.8289932116,
+               2.32710088326
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=753996883"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.37874106024,
+               48.8594154976
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752899575,
+            "code_postal":"75011",
+            "libelle":"Activit\u00e9s d'architecture",
+            "region":"Ile-de-France",
+            "adresse":"COUR DAMOYE 12 plac de la Bastille",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-07-20",
+            "denomination":"VENDOME CONSEIL",
+            "coordonnees":[  
+               48.8594154976,
+               2.37874106024
+            ],
+            "code_ape":"7111Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752899575"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.310292,
+               48.847375
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752369066,
+            "code_postal":"75015",
+            "libelle":"Commerces de d\u00e9tail d'optique",
+            "region":"Ile-de-France",
+            "adresse":"6 rue C\u00e9sar-Franck 3 rue Bouchut",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-07-03",
+            "denomination":"V.V.V. VOUS-VOYEZ-VOUS",
+            "coordonnees":[  
+               48.847375,
+               2.310292
+            ],
+            "code_ape":"4778A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752369066"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.33979,
+               48.89148
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752212563,
+            "code_postal":"75018",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"Angle 2 rue Calmels 53 rue du Ruisseau",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-06-21",
+            "denomination":"SALDIN",
+            "coordonnees":[  
+               48.89148,
+               2.33979
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752212563"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.349047,
+               48.859594
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752817148,
+            "code_postal":"75004",
+            "libelle":"Boulangerie et boulangerie-p\u00e2tisserie",
+            "region":"Ile-de-France",
+            "adresse":"-14 boulevard S\u00e9bastopol et 28 rue des Lombards",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-07-18",
+            "denomination":"SARL M'SEDDI",
+            "coordonnees":[  
+               48.859594,
+               2.349047
+            ],
+            "code_ape":"1071C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752817148"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.371678,
+               48.842851
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752785386,
+            "code_postal":"75012",
+            "region":"Ile-de-France",
+            "adresse":"54  quai de la R\u00e2p\u00e9e - LAC LA 30",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-07-17",
+            "denomination":"EMS RENNES",
+            "coordonnees":[  
+               48.842851,
+               2.371678
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752785386"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.305355,
+               48.870859
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750963670,
+            "code_postal":"75008",
+            "libelle":"Conseil pour les affaires et autres conseils de gestion",
+            "region":"Ile-de-France",
+            "adresse":"66 aven des Champs Elys\u00e9es",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-04-18",
+            "denomination":"CIFIEetCO",
+            "coordonnees":[  
+               48.870859,
+               2.305355
+            ],
+            "code_ape":"7022Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750963670"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.370454,
+               48.895595
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751339946,
+            "code_postal":"75018",
+            "libelle":"Activit\u00e9s des soci\u00e9t\u00e9s holding",
+            "region":"Ile-de-France",
+            "adresse":"73 rue de l'Evangile",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-05-03",
+            "denomination":"TEMPOL",
+            "coordonnees":[  
+               48.895595,
+               2.370454
+            ],
+            "code_ape":"6420Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751339946"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.368816,
+               48.899375
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750281198,
+            "code_postal":"75018",
+            "libelle":"Activit\u00e9s des agents et courtiers d'assurances",
+            "region":"Ile-de-France",
+            "adresse":"B\u00e2timent 40 14 rue Charles Lauth",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-03-22",
+            "denomination":"LOEMBA FRANCK ASSURANCES",
+            "coordonnees":[  
+               48.899375,
+               2.368816
+            ],
+            "code_ape":"6622Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750281198"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.292109,
+               48.875068
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":529180754,
+            "code_postal":"75017",
+            "libelle":"Activit\u00e9s des soci\u00e9t\u00e9s holding",
+            "region":"Ile-de-France",
+            "adresse":"12 ave de la Grande Arm\u00e9e",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-06-06",
+            "denomination":"NETEOS",
+            "coordonnees":[  
+               48.875068,
+               2.292109
+            ],
+            "code_ape":"6420Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=529180754"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.305086,
+               48.874448
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750646242,
+            "code_postal":"75008",
+            "libelle":"Conseil pour les affaires et autres conseils de gestion",
+            "region":"Ile-de-France",
+            "adresse":"Immeuble Artois 42-44 rue Washington",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-04-02",
+            "denomination":"MEDIQUALCERT",
+            "coordonnees":[  
+               48.874448,
+               2.305086
+            ],
+            "code_ape":"7022Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750646242"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.38469432787,
+               48.886868623
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750863680,
+            "code_postal":"75019",
+            "libelle":"Commerce de d\u00e9tail d'habillement en magasin sp\u00e9cialis\u00e9",
+            "region":"Ile-de-France",
+            "adresse":"119 rue de Crim\u00e9e et 110 aven Jean Jaur\u00e8s",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-04-11",
+            "denomination":"RG HABILLEMENT",
+            "coordonnees":[  
+               48.886868623,
+               2.38469432787
+            ],
+            "code_ape":"4771Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750863680"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.362256,
+               48.823931
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751627662,
+            "code_postal":"75013",
+            "libelle":"Autres commerces de d\u00e9tail sp\u00e9cialis\u00e9s divers",
+            "region":"Ile-de-France",
+            "adresse":"10-16 rue Fr\u00e8res d'Astier de la Vigerie",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-05-16",
+            "denomination":"NOUVEAU CORAIL ROUGE",
+            "coordonnees":[  
+               48.823931,
+               2.362256
+            ],
+            "code_ape":"4778C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751627662"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.323155,
+               48.842193
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752450114,
+            "code_postal":"75014",
+            "libelle":"Autres travaux de finition",
+            "region":"Ile-de-France",
+            "adresse":"Boite 37 23 rue du D\u00e9part",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-07-02",
+            "denomination":"BATI-WILS-MOREIRA ET FILS",
+            "coordonnees":[  
+               48.842193,
+               2.323155
+            ],
+            "code_ape":"4339Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752450114"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.2620995594,
+               48.8603987604
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":753530906,
+            "code_postal":"75016",
+            "libelle":"Restauration de type rapide",
+            "region":"Ile-de-France",
+            "adresse":"Ch\u00e2let de la Mare Saint James   All\u00e9e de Madrid a Neuilly",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-08-30",
+            "denomination":"LA PAUSE VERTE",
+            "coordonnees":[  
+               48.8603987604,
+               2.2620995594
+            ],
+            "code_ape":"5610C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=753530906"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.38875,
+               48.873723
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752972232,
+            "code_postal":"75020",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"94 rue de la Mare et 381 rue des Pyr\u00e9n\u00e9es",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-08-07",
+            "denomination":"LA TENTATION DE SAINT ANTOINE",
+            "coordonnees":[  
+               48.873723,
+               2.38875
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752972232"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.286862,
+               48.880514
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":753308048,
+            "code_postal":"75017",
+            "libelle":"Activit\u00e9s des marchands de biens immobiliers",
+            "region":"Ile-de-France",
+            "adresse":"Villa des Ternes 96 ave des Ternes",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-08-13",
+            "denomination":"ERIM SAS",
+            "coordonnees":[  
+               48.880514,
+               2.286862
+            ],
+            "code_ape":"6810Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=753308048"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.305974,
+               48.870877
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789147022,
+            "code_postal":"75008",
+            "libelle":"Entretien corporel",
+            "region":"Ile-de-France",
+            "adresse":"Immeuble D 128 Rue La Bo\u00e9tie",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-05",
+            "denomination":"ESTHETYM",
+            "coordonnees":[  
+               48.870877,
+               2.305974
+            ],
+            "code_ape":"9604Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789147022"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.38469432787,
+               48.886868623
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789150919,
+            "code_postal":"75019",
+            "libelle":"\u00c9dition de journaux",
+            "region":"Ile-de-France",
+            "adresse":"Folie du Canal N5 211 aven Jean Jaur\u00e9s",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-11-02",
+            "denomination":"FORMAT PRESSE",
+            "coordonnees":[  
+               48.886868623,
+               2.38469432787
+            ],
+            "code_ape":"5813Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789150919"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.403811,
+               48.873314
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789025475,
+            "code_postal":"75020",
+            "libelle":"Travaux d'installation d'eau et de gaz en tous locaux",
+            "region":"Ile-de-France",
+            "adresse":"B\u00e2timent 1 64 rue Haxo",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-11-02",
+            "denomination":"SARL A.T.I.A",
+            "coordonnees":[  
+               48.873314,
+               2.403811
+            ],
+            "code_ape":"4322A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789025475"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.335038,
+               48.875267
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":790170278,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail de mat\u00e9riels de transport a\u00e9rien",
+            "region":"Ile-de-France",
+            "adresse":"TMF P\u00f4le 52 rue de la Victoire",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-12-26",
+            "denomination":"Avolon Aerospace France 2",
+            "coordonnees":[  
+               48.875267,
+               2.335038
+            ],
+            "code_ape":"7735Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=790170278"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.30632,
+               48.870152
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":790202709,
+            "code_postal":"75008",
+            "region":"Ile-de-France",
+            "adresse":"Lot 41 66 AVEN des Champs Elys\u00e9es",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-12-31",
+            "denomination":"LATY 23",
+            "coordonnees":[  
+               48.870152,
+               2.30632
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=790202709"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.407373,
+               48.855933
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789591450,
+            "code_postal":"75020",
+            "libelle":"Travaux de peinture et vitrerie",
+            "region":"Ile-de-France",
+            "adresse":"BL1 91 rue des Orteaux",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-11-26",
+            "denomination":"TOP DESIGN",
+            "coordonnees":[  
+               48.855933,
+               2.407373
+            ],
+            "code_ape":"4334Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789591450"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.324128,
+               48.872501
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":790081897,
+            "code_postal":"75008",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"19 rue Tronchet et 2 rue de Castellane",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-12-24",
+            "denomination":"BRASSERIE MADELEINE-TRONCHET",
+            "coordonnees":[  
+               48.872501,
+               2.324128
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=790081897"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.2620995594,
+               48.8603987604
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":790022123,
+            "code_postal":"75016",
+            "libelle":"Commerce et r\u00e9paration de motocycles",
+            "region":"Ile-de-France",
+            "adresse":"26-28 rue Claude Terrasse 11 rue Charles Tellier",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-12-17",
+            "denomination":"URGENCE SCOOTERS 16\u00e8me",
+            "coordonnees":[  
+               48.8603987604,
+               2.2620995594
+            ],
+            "code_ape":"4540Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=790022123"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.340657,
+               48.87537
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789095031,
+            "code_postal":"75009",
+            "libelle":"Travaux de rev\u00eatement des sols et des murs",
+            "region":"Ile-de-France",
+            "adresse":"chez ACE CONSEIL 55 rue du fg Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-10-30",
+            "denomination":"API BTP",
+            "coordonnees":[  
+               48.87537,
+               2.340657
+            ],
+            "code_ape":"4333Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789095031"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.384854,
+               48.84968
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":749867529,
+            "code_postal":"75012",
+            "libelle":"Autres transports routiers de voyageurs",
+            "region":"Ile-de-France",
+            "adresse":"67 rue de Reuilly 10  Cour Alsace Lorraine",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-02-24",
+            "denomination":"EURO PRESTIGE PARTNER",
+            "coordonnees":[  
+               48.84968,
+               2.384854
+            ],
+            "code_ape":"4939B",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=749867529"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.31258256042,
+               48.8725272666
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":749892113,
+            "code_postal":"75008",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"28 rue Jean Mermoz angle 8 rue Rabelais",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-02-28",
+            "denomination":"CAMPO MERMOZ",
+            "coordonnees":[  
+               48.8725272666,
+               2.31258256042
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=749892113"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.331501,
+               48.869744
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750962896,
+            "code_postal":"75002",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"17 rue de la Paix et   14 rue Daunou",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-04-27",
+            "denomination":"ALEX et SEB",
+            "coordonnees":[  
+               48.869744,
+               2.331501
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750962896"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.36246822852,
+               48.8287176845
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751081167,
+            "code_postal":"75013",
+            "libelle":"Activit\u00e9s sp\u00e9cialis\u00e9es de design",
+            "region":"Ile-de-France",
+            "adresse":"Tour Ravenne 130 boul Massena",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-04-20",
+            "denomination":"1 MOMENT IMAGE",
+            "coordonnees":[  
+               48.8287176845,
+               2.36246822852
+            ],
+            "code_ape":"7410Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751081167"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.386213,
+               48.874281
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750041170,
+            "code_postal":"75020",
+            "libelle":"Activit\u00e9s d'architecture",
+            "region":"Ile-de-France",
+            "adresse":"100 bld de Belleville",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-03-23",
+            "denomination":"Atelier MAD",
+            "coordonnees":[  
+               48.874281,
+               2.386213
+            ],
+            "code_ape":"7111Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750041170"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.311266,
+               48.830544
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750713349,
+            "code_postal":"75014",
+            "libelle":"Commerce de d\u00e9tail de biens d'occasion en magasin",
+            "region":"Ile-de-France",
+            "adresse":"156 rue Raymond Losserand",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-04-03",
+            "denomination":"WINCO",
+            "coordonnees":[  
+               48.830544,
+               2.311266
+            ],
+            "code_ape":"4779Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750713349"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.323155,
+               48.842193
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750859076,
+            "code_postal":"75014",
+            "libelle":"Conseil pour les affaires et autres conseils de gestion",
+            "region":"Ile-de-France",
+            "adresse":"Boite 37 23 rue du D\u00e9part",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-04-11",
+            "denomination":"SAHARA TRADING INTERNATIONAL",
+            "coordonnees":[  
+               48.842193,
+               2.323155
+            ],
+            "code_ape":"7022Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750859076"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.36111290456,
+               48.8760285569
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750621526,
+            "code_postal":"75010",
+            "libelle":"Activit\u00e9s des si\u00e8ges sociaux",
+            "region":"Ile-de-France",
+            "adresse":"18 rue de Nancy 88 rue du fbg St Martin angle",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-04-12",
+            "denomination":"BLV",
+            "coordonnees":[  
+               48.8760285569,
+               2.36111290456
+            ],
+            "code_ape":"7010Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750621526"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.317615,
+               48.871264
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750948036,
+            "code_postal":"75008",
+            "region":"Ile-de-France",
+            "adresse":"rue Montalivet 10 rue des Saussaies",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-04-13",
+            "denomination":"M.P. SAUSSAIES",
+            "coordonnees":[  
+               48.871264,
+               2.317615
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750948036"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.348657,
+               48.834253
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":752218974,
+            "code_postal":"75013",
+            "region":"Ile-de-France",
+            "adresse":"angle 93 rue Pascale et 50  rue des Cordeli\u00e8res",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 en nom collectif",
+            "date":"2012-06-19",
+            "denomination":"SNC NEWLOR",
+            "coordonnees":[  
+               48.834253,
+               2.348657
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=752218974"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.340775,
+               48.872033
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751736281,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"18 boul Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-05-24",
+            "denomination":"ORENTA312",
+            "coordonnees":[  
+               48.872033,
+               2.340775
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751736281"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.340775,
+               48.872033
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751736240,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"18 bd Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-05-24",
+            "denomination":"ORENTA313",
+            "coordonnees":[  
+               48.872033,
+               2.340775
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751736240"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.36111290456,
+               48.8760285569
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751484692,
+            "code_postal":"75010",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"19 rue de Dunkerque   angle 37 rue Saint Quentin",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-05-11",
+            "denomination":"YOUKA",
+            "coordonnees":[  
+               48.8760285569,
+               2.36111290456
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751484692"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.38469432787,
+               48.886868623
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":753277045,
+            "code_postal":"75019",
+            "libelle":"Portails internet",
+            "region":"Ile-de-France",
+            "adresse":"19 quai de Seine (Chez BG Servic",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-09-14",
+            "denomination":"CUSTOMERS INSIDE",
+            "coordonnees":[  
+               48.886868623,
+               2.38469432787
+            ],
+            "code_ape":"6312Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=753277045"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.368161,
+               48.865348
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":753218452,
+            "code_postal":"75011",
+            "region":"Ile-de-France",
+            "adresse":"21 rue Jean Pierre Timbaud 28 rue de malte",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-08-08",
+            "denomination":"YOU SHOP",
+            "coordonnees":[  
+               48.865348,
+               2.368161
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=753218452"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.368628,
+               48.831588
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789339470,
+            "code_postal":"75013",
+            "libelle":"Travaux de montage de structures m\u00e9talliques",
+            "region":"Ile-de-France",
+            "adresse":"Chez ABC LIV 38 Rue Dunois",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-11-13",
+            "denomination":"SARL BAYS ECHAFAUDAGES",
+            "coordonnees":[  
+               48.831588,
+               2.368628
+            ],
+            "code_ape":"4399B",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789339470"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.34871193387,
+               48.8927350746
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789590767,
+            "code_postal":"75018",
+            "libelle":"Conseil pour les affaires et autres conseils de gestion",
+            "region":"Ile-de-France",
+            "adresse":"14 boul de la Chapelle Bo\u00eete 46",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-26",
+            "denomination":"JCA AUTOMOTIVE CONSULTING",
+            "coordonnees":[  
+               48.8927350746,
+               2.34871193387
+            ],
+            "code_ape":"7022Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789590767"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.33746024139,
+               48.8768961624
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789533759,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"Chez Fineiffel 18 Boul Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-26",
+            "denomination":"ORENTA331",
+            "coordonnees":[  
+               48.8768961624,
+               2.33746024139
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789533759"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.31258256042,
+               48.8725272666
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789145810,
+            "code_postal":"75008",
+            "libelle":"Activit\u00e9s des agences de publicit\u00e9",
+            "region":"Ile-de-France",
+            "adresse":"Immeuble Louis Vuitton  5e \u00e9tage 101 aven des Champs Elys\u00e9es",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-16",
+            "denomination":"SAS ZEINELDEIN",
+            "coordonnees":[  
+               48.8725272666,
+               2.31258256042
+            ],
+            "code_ape":"7311Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789145810"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.36246822852,
+               48.8287176845
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":790057038,
+            "code_postal":"75013",
+            "libelle":"Location de terrains et d'autres biens immobiliers",
+            "region":"Ile-de-France",
+            "adresse":"1 rue Charles Fourier et 6 plac de l'Abb\u00e9 Georges Henocque",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-12-18",
+            "denomination":"LES PEUPLIERS",
+            "coordonnees":[  
+               48.8287176845,
+               2.36246822852
+            ],
+            "code_ape":"6820B",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=790057038"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.386755,
+               48.866682
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789316114,
+            "code_postal":"75020",
+            "libelle":"Activit\u00e9s sp\u00e9cialis\u00e9es de design",
+            "region":"Ile-de-France",
+            "adresse":"Cit\u00e9 du Labyrinthe 29-37 Rue des Panoyaux",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-13",
+            "denomination":"ARIK LEVY",
+            "coordonnees":[  
+               48.866682,
+               2.386755
+            ],
+            "code_ape":"7410Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789316114"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.37874106024,
+               48.8594154976
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":788910974,
+            "code_postal":"75011",
+            "libelle":"Conseil pour les affaires et autres conseils de gestion",
+            "region":"Ile-de-France",
+            "adresse":"Bat A7 55 Boul de Charonne",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-10-23",
+            "denomination":"NIVALIS",
+            "coordonnees":[  
+               48.8594154976,
+               2.37874106024
+            ],
+            "code_ape":"7022Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=788910974"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.34985938556,
+               48.8445086596
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750768491,
+            "code_postal":"75005",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"25-27 RUE Fr\u00e9d\u00e9ric Sauton angle 22-24 RUE Ma\u00eftre Albert",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-04-05",
+            "denomination":"SO FAB",
+            "coordonnees":[  
+               48.8445086596,
+               2.34985938556
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750768491"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.342698,
+               48.880979
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750863607,
+            "code_postal":"75009",
+            "libelle":"Agences immobili\u00e8res",
+            "region":"Ile-de-France",
+            "adresse":"u 14  rue Bochart de Saron",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-04-10",
+            "denomination":"JYG CONSULTANTS",
+            "coordonnees":[  
+               48.880979,
+               2.342698
+            ],
+            "code_ape":"6831Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750863607"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.311223,
+               48.872622
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":750864845,
+            "code_postal":"75008",
+            "libelle":"Activit\u00e9 des \u00e9conomistes de la construction",
+            "region":"Ile-de-France",
+            "adresse":"105-107-109 rue du Faubourg Sain",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-04-10",
+            "denomination":"ESQUISSE",
+            "coordonnees":[  
+               48.872622,
+               2.311223
+            ],
+            "code_ape":"7490A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=750864845"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.391672,
+               48.850721
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":538983347,
+            "code_postal":"75011",
+            "libelle":"R\u00e9paration d'autres biens personnels et domestiques",
+            "region":"Ile-de-France",
+            "adresse":"79 Rue de Montreuil 256 Bd Voltaire",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-01-02",
+            "denomination":"L'ETOILE D'OR",
+            "coordonnees":[  
+               48.850721,
+               2.391672
+            ],
+            "code_ape":"9529Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=538983347"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.30748555949,
+               48.8873371665
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":540099892,
+            "code_postal":"75017",
+            "libelle": "electricien",
+            "region":"Ile-de-France",
+            "adresse":"Parking des Ternes - 38 aven des Ternes",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-02-23",
+            "denomination":"VOITURE A LA DEMANDE",
+            "coordonnees":[  
+               48.8873371665,
+               2.30748555949
+            ],
+            "code_ape":"4511Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=540099892"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.41978339103,
+               48.8351686869
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":749993432,
+            "code_postal":"75012",
+            "libelle":"Nettoyage courant des b\u00e2timents",
+            "region":"Ile-de-France",
+            "adresse":"Chez Mr Kopalasingam Uthayakumar 16 aven de Saint Mand\u00e9",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-03-02",
+            "denomination":"SURIYAN EXPO EXPRESS",
+            "coordonnees":[  
+               48.8351686869,
+               2.41978339103
+            ],
+            "code_ape":"8121Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=749993432"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.2620995594,
+               48.8603987604
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789036720,
+            "code_postal":"75116",
+            "libelle":"Activit\u00e9s des agences de placement de main-d'\u00bfuvre",
+            "region":"Ile-de-France",
+            "adresse":"B\u00e2timent B 76 aven Foch",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-07",
+            "denomination":"NC RELAIS MATERNITE-Le Retour \u00e0 Votre domicile",
+            "coordonnees":[  
+               48.8603987604,
+               2.2620995594
+            ],
+            "code_ape":"7810Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789036720"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.306208,
+               48.871721
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789085412,
+            "code_postal":"75008",
+            "libelle":"Ing\u00e9nierie  \u00e9tudes techniques",
+            "region":"Ile-de-France",
+            "adresse":"Immeuble D 49-51 Rue de Ponthieu",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-10-30",
+            "denomination":"BAT-CONSULT",
+            "coordonnees":[  
+               48.871721,
+               2.306208
+            ],
+            "code_ape":"7112B",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789085412"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.36246822852,
+               48.8287176845
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789991304,
+            "code_postal":"75013",
+            "region":"Ile-de-France",
+            "adresse":"\u00e0 l'angle 180 rue Jeanne d'Arc 41 boul Saint Marcel",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-12-14",
+            "denomination":"BB RESTAURATION",
+            "coordonnees":[  
+               48.8287176845,
+               2.36246822852
+            ],
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789991304"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.335038,
+               48.875267
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":790170245,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail de mat\u00e9riels de transport a\u00e9rien",
+            "region":"Ile-de-France",
+            "adresse":"TMF P\u00f4le 52 rue de la Victoire",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-12-26",
+            "denomination":"Avolon Aerospace France 1",
+            "coordonnees":[  
+               48.875267,
+               2.335038
+            ],
+            "code_ape":"7735Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=790170245"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.341143,
+               48.866532
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":788777100,
+            "code_postal":"75002",
+            "libelle":"plombier",
+            "region":"Ile-de-France",
+            "adresse":"angle 2 rue Brongniart 52 rue Notre Dame des Victoires",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-10-16",
+            "denomination":"TORVIC",
+            "coordonnees":[  
+               48.866532,
+               2.341143
+            ],
+            "code_ape":"5610A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=788777100"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.342171,
+               48.870523
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789634235,
+            "code_postal":"75002",
+            "libelle":"Conseil en syst\u00e8mes et logiciels informatiques",
+            "region":"Ile-de-France",
+            "adresse":"8 Galerie Montmartre 151 rue Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-11-28",
+            "denomination":"Webwiser",
+            "coordonnees":[  
+               48.870523,
+               2.342171
+            ],
+            "code_ape":"6202A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789634235"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.33746024139,
+               48.8768961624
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789533882,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"Chez Fineiffel 18 Boul Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-11-26",
+            "denomination":"ORENTA332",
+            "coordonnees":[  
+               48.8768961624,
+               2.33746024139
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789533882"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.392249,
+               48.865602
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":789594777,
+            "code_postal":"75020",
+            "libelle":"Vente \u00e0 distance sur catalogue sp\u00e9cialis\u00e9",
+            "region":"Ile-de-France",
+            "adresse":"BL 26 14-16 rue Soleillet",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-11-27",
+            "denomination":"ANDROMATIC",
+            "coordonnees":[  
+               48.865602,
+               2.392249
+            ],
+            "code_ape":"4791B",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=789594777"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.321382,
+               48.89503
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":788565083,
+            "code_postal":"75017",
+            "libelle":"Autres travaux d'installation n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"B\u00e2t B  \u00e9tage 7 60 rue Pouchet",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-10-09",
+            "denomination":"RIEM STAND",
+            "coordonnees":[  
+               48.89503,
+               2.321382
+            ],
+            "code_ape":"4329B",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=788565083"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.331614,
+               48.837911
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":788575579,
+            "code_postal":"75014",
+            "libelle":"Conseil pour les affaires et autres conseils de gestion",
+            "region":"Ile-de-France",
+            "adresse":"chez M Denys Bouthillon 55 rue Boissonade",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-10-05",
+            "denomination":"DB23",
+            "coordonnees":[  
+               48.837911,
+               2.331614
+            ],
+            "code_ape":"7022Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=788575579"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.358435,
+               48.828716
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539946848,
+            "code_postal":"75013",
+            "libelle":"Autres commerces de d\u00e9tail sp\u00e9cialis\u00e9s divers",
+            "region":"Ile-de-France",
+            "adresse":"18 rue Georges Eastman",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-02-15",
+            "denomination":"ASIA CENTER",
+            "coordonnees":[  
+               48.828716,
+               2.358435
+            ],
+            "code_ape":"4778C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539946848"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.35379,
+               48.869833
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539372086,
+            "code_postal":"75010",
+            "libelle":"Traduction et interpr\u00e9tation",
+            "region":"Ile-de-France",
+            "adresse":"et 6 pass du Prado",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-01-17",
+            "denomination":"EURO PRESTATION SERVICE",
+            "coordonnees":[  
+               48.869833,
+               2.35379
+            ],
+            "code_ape":"7430Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539372086"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.328037,
+               48.85763
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":539227157,
+            "code_postal":"75007",
+            "libelle":"Location de terrains et d'autres biens immobiliers",
+            "region":"Ile-de-France",
+            "adresse":"25 rue du Bac 42 rue de l'Universit\u00e9",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-01-17",
+            "denomination":"FONCIERE DE LA TOUR EIFFEL",
+            "coordonnees":[  
+               48.85763,
+               2.328037
+            ],
+            "code_ape":"6820B",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=539227157"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.41978339103,
+               48.8351686869
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751999459,
+            "code_postal":"75012",
+            "libelle":"Restauration de type rapide",
+            "region":"Ile-de-France",
+            "adresse":"f\u00e9)  qu de Bercy Aval",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-05-24",
+            "denomination":"EMIRATES BEACH",
+            "coordonnees":[  
+               48.8351686869,
+               2.41978339103
+            ],
+            "code_ape":"5610C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751999459"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.340775,
+               48.872033
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751736232,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"18 BD Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-05-24",
+            "denomination":"ORENTA314",
+            "coordonnees":[  
+               48.872033,
+               2.340775
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751736232"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.340775,
+               48.872033
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751736208,
+            "code_postal":"75009",
+            "libelle":"Location et location-bail d'autres machines  \u00e9qui. et biens mat\u00e9riels n.c.a.",
+            "region":"Ile-de-France",
+            "adresse":"18 bd Montmartre",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e \u00e0 associ\u00e9 unique",
+            "date":"2012-05-24",
+            "denomination":"ORENTA315",
+            "coordonnees":[  
+               48.872033,
+               2.340775
+            ],
+            "code_ape":"7739Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751736208"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.323155,
+               48.842193
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751626896,
+            "code_postal":"75014",
+            "libelle":"Aide \u00e0 domicile",
+            "region":"Ile-de-France",
+            "adresse":"Boite 37 23 rue du D\u00e9part",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-05-23",
+            "denomination":"SIMPLY SAS",
+            "coordonnees":[  
+               48.842193,
+               2.323155
+            ],
+            "code_ape":"8810A",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751626896"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.32733,
+               48.89028
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751995077,
+            "code_postal":"75018",
+            "libelle":"Restauration de type rapide",
+            "region":"Ile-de-France",
+            "adresse":"50 avenue de Saint Ouen 12 rue du Capitaine Madon",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 \u00e0 responsabilit\u00e9 limit\u00e9e",
+            "date":"2012-06-07",
+            "denomination":"PACHA D'ISTANBUL",
+            "coordonnees":[  
+               48.89028,
+               2.32733
+            ],
+            "code_ape":"5610C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751995077"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.3568,
+               48.829281
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":751213182,
+            "code_postal":"75013",
+            "libelle":"Programmation informatique",
+            "region":"Ile-de-France",
+            "adresse":"(App 196) 17  avenue d'Italie",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-04-30",
+            "denomination":"SWASA",
+            "coordonnees":[  
+               48.829281,
+               2.3568
+            ],
+            "code_ape":"6201Z",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=751213182"
+         }
+      },
+      {  
+         "type":"Feature",
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               2.302397,
+               48.875413
+            ]
+         },
+         "properties":{ "telephone":"0664624478",  
+            "ville":"Paris",
+            "siren":753888023,
+            "code_postal":"75008",
+            "libelle":"Edition de logiciels applicatifs",
+            "region":"Ile-de-France",
+            "adresse":"Centre d'affaires Regus 23 rue de Balzac",
+            "greffe":"PARIS",
+            "forme_juridique":"Soci\u00e9t\u00e9 par actions simplifi\u00e9e",
+            "date":"2012-09-19",
+            "denomination":"TRACEACODE",
+            "coordonnees":[  
+               48.875413,
+               2.302397
+            ],
+            "code_ape":"5829C",
+            "fiche_identite":"https://www.infogreffe.fr/infogreffe/ficheIdentite.do?siren=753888023"
+         }
+      }
+   ]
+}

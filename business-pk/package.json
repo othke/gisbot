@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "0.0.1",
+  "description": "great app for cisco hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HEljabiri/hackathon.git"
+  },
+  "author": "heljabiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HEljabiri/hackathon/issues"
+  },
+  "homepage": "https://github.com/HEljabiri/hackathon#readme",
+  "dependencies": {
+    "turf": "^2.0.0",
+    "express": "^4.14.0"
+  }
+}
