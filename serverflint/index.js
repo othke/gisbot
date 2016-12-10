@@ -29,61 +29,62 @@ flint.on('initialized', () => {
 flint.hears(/.*/, (bot, trigger) => {
     recastClient.textConverse(trigger.text, {conversationToken: trigger.roomId})
         .then((res) => {
+            console.log('####################################################')
+            console.log('####################################################')
+
             const reply = res.reply()
             const replies = res.replies
             const action = res.action
             const entities = res.entities
             const token = res.conversationToken
 
+            // Store the conversation
+            if (store[token] == undefined) {
+                console.log('store id')
+                store[token] = {}
+                store[token].id = token
+                store[token].name = trigger.personDisplayName
+                store[token].state = false
+            }
+
             // No replies
             if (!replies.length) {
+                console.log('no replies')
                 bot.say('Je ne comprends pas désolé %s :(', trigger.personDisplayName)
+                return
             }
             if (!reply || !replies) {
+                console.log('no replies')
                 bot.say('Je ne comprends pas désolé %s :(')
-            } else {
+                return
+            }
 
-                // Start conversation
-                if(action.reply == 'Quel type de professionnel cherchez-vous ?'){
+            console.log('replies')
+            console.log(res.entities)
 
-                    // Store the conversation
-                    if(store[token] == undefined){
-                        console.log('store id')
-                        store[token] = {}
-                        store[token].id = token
-                        store[token].name = trigger.personDisplayName
-                        store[token].state = false
-                    }
-                }
+            // Store entities
+            entities.forEach(function (entity) {
+                if (entity.name == 'job')
+                    store[token].job = entity.raw
+                if (entity.name == 'location')
+                    store[token].location = entity.raw
+            })
 
-                // Store entities
-                if(entities.length > 0){
-                    // Store job entities
-                    if(entities[0].name == 'job'){
-                        store[token].job = entities[0].raw
-                    }
-                    // Store location entities
-                    else if(entities[0].name == 'location'){
-                        store[token].location = entities[0].raw
-                    }
-                }
-
-                // Got the information
-                if (action && action.done) {
-                    console.log('action is done')
-                    store[token].state = true
-                    // Do something if you need: use res.memory('notion') if you got a notion from this action
-                }
-
+            // Got the information
+            if (action && action.done) {
+                console.log('action is done')
+                store[token].state = true
+                // Do something if you need: use res.memory('notion') if you got a notion from this action
                 // Store history and reset current store
-                if(storeHistory[token] == undefined){
+                if (storeHistory[token] == undefined) {
                     storeHistory[token] = []
                 }
                 storeHistory[token].push(store[token])
                 store[token] = undefined;
-
-                replies.forEach(reply => bot.say(reply))
             }
+
+            replies.forEach(reply => bot.say(reply))
+            console.log('END')
         })
         .catch((e) => {
             console.log(e)
@@ -97,7 +98,7 @@ flint.hears(/.*/, (bot, trigger) => {
 
 app.post('/', webhook(flint))
 
-app.post('/tropo', function(req, res){
+app.post('/tropo', function (req, res) {
     res.send("ok")
 })
 
