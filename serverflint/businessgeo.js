@@ -15,36 +15,25 @@
 var turf = require('turf');
 var fs = require('fs');
 
-var nearest;
-var randomAdresses = fs.readFileSync('./data/112data.geojson');
+var randomAdresses = fs.readFileSync('../data/112data.geojson');
 randomAdresses = JSON.parse(randomAdresses);
-var peopleFound=[];
-			
-function findNearest(lat,lg,service_name)
+
+var exports = module.exports = {}
+exports.data = randomAdresses
+
+exports.findNearest = function (lat,lg,service_name)
 {
+	var nearest;
+	var peopleFound = [];
+
 	for(var i=0; i<randomAdresses.features.length; i++){
 	if(undefined != (randomAdresses.features[i].properties.libelle) && (randomAdresses.features[i].properties.libelle).localeCompare(service_name)==0)
 		{
 			peopleFound.push(randomAdresses.features[i]);
 		}		
 	}
-	console.log(peopleFound.length);
 	var point = turf.point([lat, lg]);
 	var fc = turf.featurecollection(peopleFound);
 	nearest = turf.nearest(point, fc );
+	return nearest
 }
-/****testing function****/
-findNearest(2,40,"chauffagiste");
-console.log(nearest);
-
-
-
-
-//var feature_collection = turf.featurecollection(randomAdresses);
-//var fc = turf.featurecollection(randomAdresses);
-/*var point = turf.point([-97.522259, 35.469100], {
-    "uid": "#8E8E8E",
-    "title": "Determining Point"
-});
-var nearest = turf.nearest(point, fc);
-console.log(nearest);*/
